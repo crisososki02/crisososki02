@@ -1,0 +1,6 @@
+# Sobre mim
+
+- 👋 Hi, I’m @crisososki02
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+
